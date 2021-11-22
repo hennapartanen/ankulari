@@ -1,0 +1,27 @@
+
+#cancel {
+  margin-left: 100%;
+  margin-bottom: 50px;
+  font-size: 12px;
+}
+
+fieldset {
+
+  width: 60%;
+  font-size: 30px;
+  margin-left: 15%;
+margin-top: 5%;
+}
+.form-group {
+  margin-bottom: 35px;
+}
+.form-control {
+  padding: 20px;
+}
+
+.btn {
+  padding: 15px;
+  font-size: 20px;
+  margin-top: 30px;
+
+}

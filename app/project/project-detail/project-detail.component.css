@@ -1,0 +1,67 @@
+
+h1{
+  font-size: 70px;
+  text-align: center;
+  margin-top: 10%;
+  text-shadow: 4px 4px 8px #000000;
+  color: white;
+}
+
+h2{
+  font-size: 100px;
+  text-align: center;
+  margin-top: 10%;
+  text-shadow: 4px 4px 8px #000000;
+  color: white;
+}
+
+
+
+.container {
+  position: relative;
+  text-align: center;
+margin-right: 80px;
+
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+#btn{
+
+  padding: 10px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+#buttons{
+  margin-left: 14px;
+  margin-top: 3%;
+
+}
+
+#cancel {
+  margin-left: 93%;
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+fieldset {
+
+  width: 60%;
+  font-size: 30px;
+  margin-left: 15%;
+margin-top: 5%;
+}
+
+.form-group {
+  margin-bottom: 35px;
+}
+.form-control {
+  padding: 20px;
+}

@@ -1,0 +1,23 @@
+<button
+type="button" routerLink="/project" id="cancel">X</button>
+
+<div class="container">
+
+  <img [src]="project.imagePath"
+  width="1300"
+  height="700"
+  style="width: 1300px; height: 700px;"
+  class="img-responsive">
+
+  <div class="centered">
+    <h1>{{project.name}}</h1>
+
+    <h2> {{project.date}}</h2>
+  </div>
+
+</div>
+
+<div id="buttons">
+<button id="btn" style="cursor: pointer;" (click)="onEditRecipe()" class="btn btn-info">Edit</button>
+<button id="btn" style="cursor: pointer;" (click)="onDeleteRecipe()" class="btn btn-danger">Delete</button>
+</div>

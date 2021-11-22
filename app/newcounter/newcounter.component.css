@@ -1,0 +1,34 @@
+fieldset {
+
+  width: 60%;
+  font-size: 30px;
+  margin-left: 15%;
+margin-top: 5%;
+}
+
+.form-control {
+  padding: 20px;
+}
+
+
+label {
+  display: inline-block;
+
+}
+
+.form-group {
+  margin-bottom: 35px;
+}
+
+.btn {
+  padding: 15px;
+  font-size: 20px;
+  margin-top: 30px;
+
+}
+
+#cancel {
+  margin-left: 100%;
+  margin-bottom: 50px;
+  font-size: 12px;
+}

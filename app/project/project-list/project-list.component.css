@@ -1,0 +1,61 @@
+
+
+.list-group-item{
+margin-top: 30px;
+}
+
+#uuscounter{
+  text-align: center;
+margin-top: 20%;
+
+}
+
+.btn{
+  font-size: 18px;
+  padding: 15px;
+  margin-top: 10%;
+margin-left: 35%;
+}
+
+
+#Madeprojects {
+  margin-top: 5%;
+  width: 8%;
+}
+
+
+.col-md-3{
+  margin-top: 3%;
+}
+
+h4{
+  font-size: 25px;
+}
+h5{
+  font-size: 15px;
+}
+.list-group-item{
+  margin-top: 10%;
+}
+
+
+
+btn{
+  margin: left 10%;
+  padding: 10px;
+  font-size: 50px;
+}
+fieldset {
+
+  width: 60%;
+  font-size: 30px;
+  margin-left: 15%;
+margin-top: 5%;
+}
+
+.form-group {
+  margin-bottom: 35px;
+}
+.form-control {
+  padding: 20px;
+}

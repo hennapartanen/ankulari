@@ -1,0 +1,41 @@
+
+#tinycounters {
+  margin-left: 3%;
+  width: 8%;
+}
+
+
+.col-md-3{
+  margin-top: 3%;
+}
+
+h4{
+  font-size: 25px;
+}
+h5{
+  font-size: 15px;
+}
+
+
+
+#Madeprojects {
+  margin-top: 5%;
+  width: 8%;
+}
+
+.list-group-item{
+  margin-top: 10%;
+}
+
+btn{
+  margin: left 10%;
+  padding: 10px;
+  font-size: 50px;
+}
+
+.form-group {
+  margin-bottom: 35px;
+}
+.form-control {
+  padding: 20px;
+}

@@ -1,0 +1,41 @@
+
+
+
+h3 {
+  margin-left: 10%;
+  font-size: 50px;
+  padding: 5%;
+}
+
+h2{
+  color: white;
+  position: absolute;
+
+}
+
+
+#tinycounters {
+  margin-left: 3%;
+  width: 8%;
+}
+
+
+.col-md-3{
+  margin-top: 3%;
+}
+
+
+.list-group-item{
+  margin-top: 10%;
+}
+
+btn{
+  margin: left 10%;
+  padding: 10px;
+  font-size: 50px;
+}
+
+.row{
+  margin-right: 0;
+  margin-left: 0;
+}
